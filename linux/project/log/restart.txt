@@ -1,0 +1,16 @@
+S/W Block Name | Restart Count |       Start Time       | Reason
+-----------------------------------------------------------------
+SwBlock3 c       1              Fri Dec 15 11:04:35 2023   Interrupt: 2
+SwBlock1 a       1              Fri Dec 15 11:04:35 2023   Interrupt: 2
+SwBlock1 a       2              Fri Dec 15 11:04:38 2023   Terminated: 15
+SwBlock3 c       2              Fri Dec 15 11:04:38 2023   Interrupt: 2
+SwBlock1 a       3              Fri Dec 15 11:04:39 2023   Terminated: 15
+SwBlock3 c       3              Fri Dec 15 11:04:40 2023   User defined signal 1: 30
+SwBlock3 c       4              Fri Dec 15 11:04:41 2023   User defined signal 1: 30
+SwBlock1 a       4              Fri Dec 15 11:04:43 2023   Interrupt: 2
+SwBlock3 c       5              Fri Dec 15 11:04:46 2023   Interrupt: 2
+SwBlock1 a       5              Fri Dec 15 11:04:47 2023   User defined signal 1: 30
+SwBlock3 c       6              Fri Dec 15 11:04:49 2023   Quit: 3
+SwBlock3 c       7              Fri Dec 15 11:04:50 2023   Quit: 3
+SwBlock3 c       8              Fri Dec 15 11:04:52 2023   Interrupt: 2
+SwBlock3 c       9              Fri Dec 15 11:04:55 2023   User defined signal 1: 30
